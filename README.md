@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Live Demo
-This site was built using Netlify [Live Demo](https://app.netlify.com/sites/spiffy-chaja-876c53/)
+This site was built using Netlify [Live Demo](https://spiffy-chaja-876c53.netlify.app/)
 
 # Installation
 
@@ -17,7 +17,7 @@ First, clone this repository:
 
 # Clone this repository
 git clone https://github.com/nikku0009/avataar-assignment
-cd papermark
+cd navbar
 
 # Install dependencies
 `npm install`
