@@ -1,3 +1,5 @@
+##SDE- Frontend Assignment
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -9,6 +11,11 @@ Currently, two official plugins are available:
 
 # Live Demo
 This site was hosted using Netlify [Live Demo](https://spiffy-chaja-876c53.netlify.app/)
+
+#Tech Requirements
+Tech Requirements:
+ReactJs (functional components)
+Custom CSS styles (Sass is used)
 
 # Installation
 
@@ -27,6 +34,11 @@ cd navbar
 
 # Build app
 `npm run build`
+
+# Submitted by
+**Name:** Naman Mathur
+**Roll No:** 500084232
+**Batch:** B-6 CCVT (NH)
 
 
 
